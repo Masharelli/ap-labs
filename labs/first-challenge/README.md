@@ -12,21 +12,24 @@ This is the first challenge in your Advanced Programming Class.
 Build Requirements
 ------------------
 ```
-# Build Requirements here
+# Python 3.6+
+# Visual Studio Code
 ```
 
 
 How to build
 ------------
 ```
-# instructions here
+# Install Python for Visual Studio Code to build the aplication
 ```
 
 
 How to Run
 ----------
 ```
-# instructions here
+# First you have to go to Visual Studio Code
+# Open labs/first-challenge and there you have to run it with the extension
+# Just play and will work
 ```
 
 
