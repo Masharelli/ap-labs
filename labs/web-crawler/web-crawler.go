@@ -1,15 +1,6 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+//A01633090
+//Rocha Avila Hugo Masharelli
 
-// See page 241.
-
-// Crawl2 crawls web links starting with the command-line arguments.
-//
-// This version uses a buffered channel as a counting semaphore
-// to limit the number of concurrent calls to links.Extract.
-//
-// Crawl3 adds support for depth limiting.
-//
 package main
 
 import (
